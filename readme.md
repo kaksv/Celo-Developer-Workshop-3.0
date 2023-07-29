@@ -5,20 +5,21 @@
 
 This is a sample submission repository. Please fork this repo and use this as a starting point for your hackathon project.
 
-Project Name
+Project Name: delight 
 
-Team name
+Team name: thelight
 
 Hackathon Track
-Region location
+Region location:Kampala- Uganda
 Team Members
-Teammate 1, role
-Teammate 2, role
-Teammate 3, role
+Teammate Kakooza Vianey, Teamlead
+Teammate Hassan Mubiru, Front end UI, UX
+Teammate Aggrey Kanyoro, researcher
+Teammate Moses Onyango, Scrum Master
 
 Project Description
 
-Provide a clear statement of the challenges/issues/problems/gaps your project engages as well as a brief, high-level description of how your project engages the areas you've identified. What is the value of your approach? Who are the intended users?
+A place to where we come to make purchases using Celo tokens.
 
 Summary
 
