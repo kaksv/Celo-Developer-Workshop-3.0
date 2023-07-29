@@ -6,7 +6,7 @@
 
  Project Description
   Delight is an innovative e-commerce platform that harnesses the power of the Celo blockchain to transform online shopping. With a focus on security, transparency, and efficiency, Delight offers a decentralized shopping experience that benefits both buyers and sellers.
- Powered by Celo's cutting-edge blockchain technology, Delight ensures secure and transparent payment processing for all transactions. By leveraging the low transaction fees and fast settlement times of the Celo network, the platform minimizes costs and accelerates order processing, providing a seamless shopping experience for users.
+ Powered by Celo's cutting-edge blockchain technology, Delight ensures secure and transparent payment pocessing for all transactions. By leveraging the low transaction fees and fast settlement times of the Celo network, the platform minimizes costs and accelerates order processing, providing a seamless shopping experience for users.
  To foster a trustworthy and reliable ecosystem, Delight incorporates identity and reviews verification through decentralized systems. Sellers' identities are verified, and product reviews are authenticated, promoting a community built on trust and confidence.
  Smart contracts play a vital role in automating various processes, such as order fulfillment and dispute resolution, enhancing the overall efficiency of the platform.
  Delight's user-friendly and responsive design ensures a seamless shopping experience across devices, making it accessible to customers on desktops, tablets, and mobile phones.
