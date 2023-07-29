@@ -1,60 +1,50 @@
 # Celo Uganda Developer Workshop 3.0
 
-## ⚡ Hackathon Project Template ⚡
+## ⚡ DELIGHT ⚡
 
-
-This is a sample submission repository. Please fork this repo and use this as a starting point for your hackathon project.
 ### PROJECT READ ME FORMAT
 
+ Project Description
+  Delight is an innovative e-commerce platform that harnesses the power of the Celo blockchain to transform online shopping. With a focus on security, transparency, and efficiency, Delight offers a decentralized shopping experience that benefits both buyers and sellers.
+ Powered by Celo's cutting-edge blockchain technology, Delight ensures secure and transparent payment processing for all transactions. By leveraging the low transaction fees and fast settlement times of the Celo network, the platform minimizes costs and accelerates order processing, providing a seamless shopping experience for users.
+ To foster a trustworthy and reliable ecosystem, Delight incorporates identity and reviews verification through decentralized systems. Sellers' identities are verified, and product reviews are authenticated, promoting a community built on trust and confidence.
+ Smart contracts play a vital role in automating various processes, such as order fulfillment and dispute resolution, enhancing the overall efficiency of the platform.
+ Delight's user-friendly and responsive design ensures a seamless shopping experience across devices, making it accessible to customers on desktops, tablets, and mobile phones.
+ For merchants, Delight offers convenient inventory management tools, enabling them to efficiently manage their product listings and track sales.
+ Customers benefit from real-time order tracking, keeping them informed about the status of their purchases from checkout to delivery.
+ Whether you are a buyer looking for a secure and convenient shopping experience or a seller seeking a reliable and efficient platform to reach a broader audience, Delight is your one-stop destination.
+Join us on Delight, the Celo-powered e-commerce platform that redefines the way we shop online - empowering businesses and delighting customers worldwide.
 
+Functionalities
+User Authentication and Account Management: Users can create accounts, log in, and manage their profiles. Sellers and buyers have distinct roles, each with relevant permissions and access.
 
-4. Project Description
-  - Provide a clear statement of the challenges/issues/problems/gaps your project engages as well as a brief, high-level description of how your project engages the areas you've identified. What is the value of your approach? Who are the intended users?
-  - URLs
-List any URLs relevant to demonstrating your prototype
-  - Presentation
-List any links to your presentation or any related visuals you want to share.
+Product Listing and Management: Sellers can list their products with detailed descriptions, images, and prices. They can also manage their inventory, update product information, and mark items as available or sold out.
 
+Secure Payments with Celo: Delight integrates with the Celo blockchain for secure and transparent payment processing. Buyers can make purchases using their Celo wallets, and sellers receive payments directly.
 
-Seond Readme MD
+Decentralized Identity Verification: To promote trust within the community, sellers' identities are verified through decentralized identity systems, adding an extra layer of security to the platform.
 
+Product Reviews and Ratings: Customers can leave reviews and ratings for products they've purchased. These reviews help build a reputation for sellers and assist other buyers in making informed decisions.
 
-5. Summary
+Real-Time Order Tracking: Buyers can track the status of their orders in real-time, from payment confirmation to shipment and delivery updates.
 
-Describe the basic functionality of your project. What are the features you were able to implement? What features would you like to implement?
+Smart Contract Automation: Smart contracts are employed to automate various processes, such as order fulfillment and dispute resolution, reducing manual intervention and ensuring efficiency.
 
+Low Transaction Fees: Delight leverages the Celo blockchain's cost-efficient nature, resulting in minimal transaction fees for both buyers and sellers.
 
+Responsive User Interface: Delight's user interface is responsive and adaptable to various devices, providing an optimal shopping experience on desktops, tablets, and mobile phones.
 
-## Hackathon Repo Process
+Search and Filter Functionality: Buyers can easily search for products using keywords and apply filters to narrow down their choices based on price, category, or seller rating.
 
- 1. Fork this repo
-    - Press the Fork button
- 2. Create project branch
- 3. Make your changes within new branch!
-	 - Copy the folder named **Project_Name**
-	 - Rename the copied folder with your project name
-	 - Modify project details within your project folder **Readme.md**
-		- Project Name
-		- Brief Description
-		- Team members & roles
-		- Hackathon track
-		- Project details
-			- Demonstartion video _( Required)_
-			- Requirements _(Required)_
-			- Instructions to build & test _( Required)_
+By incorporating these functionalities, Delight aims to create a reliable, efficient, and delightful e-commerce experience for all users while harnessing the benefits of Celo blockchain technology.
+Installation
+Follow these steps to install and configure Delight:
 
- 4. Add, commit, and push the changes
-	 - Add the files you've changed and commit them with a descriptive message.
- 5. Submit your pull request _(Required)_
-    -  Submit to the maintainers for approval. Head over to the original repositories Pull Requests tab, you should see an automatic suggestion from GitHub to create a pull request from your new branch.
-    -  Utilize your project name as the title for your initial pull Requests
-    -  Provide a brief project description within the pull request comment
+Clone the repository: git clone https://github.com/kaksv/delight.git
 
-***Congrats, your officially a participant to the celo-Developer-Workshop3!***
+Install dependencies: cd delight && npm install
 
-## Developer tools and resources
-
-This section contains information about some of the key tools and resources that will help developers start building applications on Celo.
+Configure the Celo network: Update the network configuration in config.js to connect to the Celo blockchain.
 
 For a comprehensive list of resources and information, review [Celo Docs.](https://docs.celo.org/)
 
